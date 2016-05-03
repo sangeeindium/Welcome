@@ -5,6 +5,9 @@ public class Hello {
 		System.out.println("Hello Welcome");
 		int a = 10;
 		System.out.println(a);
+		//**************************
+		String b = "Hi";
+		System.out.println(b);
 	}
 
 }
